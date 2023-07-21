@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">sampah</string>
+    <string name="icon_logo">logo</string>
+    <string name="icon2">logo_icon_horizontal</string>
+    <string name="icon_google">google_twitter_facebook</string>
+    <string name="garis_or">pemisah_or</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_or_email_address">Username or Email Address</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="login">Sign In</string>
+    <string name="not_member">Not a Member?</string>
+    <string name="register">Sign Up Now</string>
+    <string name="page_register">Register</string>
+    <string name="page_register_create">Create Your Account</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone</string>
+    <string name="profile">profile</string>
+    <string name="nama_pengguna">Daniel Emanuel</string>
+    <string name="voucher">Dapatkan Voucher</string>
+    <string name="paragraf">
+        Selamat Datang
+            Nikmatilah pengalaman dengan membuang sampah pada tempatnya.
+    </string>
+    <string name="saldo">Rp.250.000</string>
+    <string name="riwayat">riwayat</string>
+    <string name="transaksi">transaksi</string>
+    <string name="voucher30">30</string>
+    <string name="menu">menu</string>
+    <string name="voucher_riwa">riwayat23</string>
+</resources>
